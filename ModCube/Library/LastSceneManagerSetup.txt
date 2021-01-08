@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/ModTheCube/Scene.unity
+  isLoaded: 1
+  isActive: 1
